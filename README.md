@@ -1,1 +1,0 @@
-# joshuarkoch.github.io
