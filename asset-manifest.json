@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/joshuakoch.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/joshuakoch.github.io/static/js/main.f2cb28ed.chunk.js",
-    "main.js.map": "/joshuakoch.github.io/static/js/main.f2cb28ed.chunk.js.map",
+    "main.css": "/joshuakoch.github.io/static/css/main.bafe913d.chunk.css",
+    "main.js": "/joshuakoch.github.io/static/js/main.43e3000f.chunk.js",
+    "main.js.map": "/joshuakoch.github.io/static/js/main.43e3000f.chunk.js.map",
     "runtime-main.js": "/joshuakoch.github.io/static/js/runtime-main.0e0c1af6.js",
     "runtime-main.js.map": "/joshuakoch.github.io/static/js/runtime-main.0e0c1af6.js.map",
-    "static/js/2.e1bb7d60.chunk.js": "/joshuakoch.github.io/static/js/2.e1bb7d60.chunk.js",
-    "static/js/2.e1bb7d60.chunk.js.map": "/joshuakoch.github.io/static/js/2.e1bb7d60.chunk.js.map",
+    "static/js/2.85c58438.chunk.js": "/joshuakoch.github.io/static/js/2.85c58438.chunk.js",
+    "static/js/2.85c58438.chunk.js.map": "/joshuakoch.github.io/static/js/2.85c58438.chunk.js.map",
     "index.html": "/joshuakoch.github.io/index.html",
-    "precache-manifest.4d3b6e0001f02c92fd5e7fd8eb7bc093.js": "/joshuakoch.github.io/precache-manifest.4d3b6e0001f02c92fd5e7fd8eb7bc093.js",
+    "precache-manifest.f0147b7986542ee9db3de67aa4ca5dd9.js": "/joshuakoch.github.io/precache-manifest.f0147b7986542ee9db3de67aa4ca5dd9.js",
     "service-worker.js": "/joshuakoch.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/joshuakoch.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e1bb7d60.chunk.js.LICENSE.txt": "/joshuakoch.github.io/static/js/2.e1bb7d60.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/joshuakoch.github.io/static/media/logo.5d5d9eef.svg"
+    "static/css/main.bafe913d.chunk.css.map": "/joshuakoch.github.io/static/css/main.bafe913d.chunk.css.map",
+    "static/js/2.85c58438.chunk.js.LICENSE.txt": "/joshuakoch.github.io/static/js/2.85c58438.chunk.js.LICENSE.txt",
+    "static/media/josh.jpg": "/joshuakoch.github.io/static/media/josh.063e725d.jpg",
+    "static/media/josh2.jpg": "/joshuakoch.github.io/static/media/josh2.b174588e.jpg",
+    "static/media/josh3.JPG": "/joshuakoch.github.io/static/media/josh3.39d87c5c.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.0e0c1af6.js",
-    "static/js/2.e1bb7d60.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f2cb28ed.chunk.js"
+    "static/js/2.85c58438.chunk.js",
+    "static/css/main.bafe913d.chunk.css",
+    "static/js/main.43e3000f.chunk.js"
   ]
 }
