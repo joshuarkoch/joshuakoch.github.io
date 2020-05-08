@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joshuarkoch.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/joshuarkoch.github.io/static/js/main.d2ece56b.chunk.js",
+    "main.js.map": "/joshuarkoch.github.io/static/js/main.d2ece56b.chunk.js.map",
+    "runtime-main.js": "/joshuarkoch.github.io/static/js/runtime-main.ab7bed36.js",
+    "runtime-main.js.map": "/joshuarkoch.github.io/static/js/runtime-main.ab7bed36.js.map",
+    "static/js/2.e1bb7d60.chunk.js": "/joshuarkoch.github.io/static/js/2.e1bb7d60.chunk.js",
+    "static/js/2.e1bb7d60.chunk.js.map": "/joshuarkoch.github.io/static/js/2.e1bb7d60.chunk.js.map",
+    "index.html": "/joshuarkoch.github.io/index.html",
+    "precache-manifest.89934850ad6cc71cf24b529652f0d56c.js": "/joshuarkoch.github.io/precache-manifest.89934850ad6cc71cf24b529652f0d56c.js",
+    "service-worker.js": "/joshuarkoch.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/joshuarkoch.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e1bb7d60.chunk.js.LICENSE.txt": "/joshuarkoch.github.io/static/js/2.e1bb7d60.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/joshuarkoch.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab7bed36.js",
+    "static/js/2.e1bb7d60.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d2ece56b.chunk.js"
+  ]
+}
