@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/joshuakoch.github.io/static/css/main.cc2fa7fa.chunk.css",
+    "main.css": "/joshuakoch.github.io/static/css/main.72cd9020.chunk.css",
     "main.js": "/joshuakoch.github.io/static/js/main.b84e3b6d.chunk.js",
     "main.js.map": "/joshuakoch.github.io/static/js/main.b84e3b6d.chunk.js.map",
     "runtime-main.js": "/joshuakoch.github.io/static/js/runtime-main.0e0c1af6.js",
@@ -8,9 +8,9 @@
     "static/js/2.2b7773b1.chunk.js": "/joshuakoch.github.io/static/js/2.2b7773b1.chunk.js",
     "static/js/2.2b7773b1.chunk.js.map": "/joshuakoch.github.io/static/js/2.2b7773b1.chunk.js.map",
     "index.html": "/joshuakoch.github.io/index.html",
-    "precache-manifest.d09cdf33e49c9969553d7b4ed23c348b.js": "/joshuakoch.github.io/precache-manifest.d09cdf33e49c9969553d7b4ed23c348b.js",
+    "precache-manifest.326e829bce891244e548ca3bf8037006.js": "/joshuakoch.github.io/precache-manifest.326e829bce891244e548ca3bf8037006.js",
     "service-worker.js": "/joshuakoch.github.io/service-worker.js",
-    "static/css/main.cc2fa7fa.chunk.css.map": "/joshuakoch.github.io/static/css/main.cc2fa7fa.chunk.css.map",
+    "static/css/main.72cd9020.chunk.css.map": "/joshuakoch.github.io/static/css/main.72cd9020.chunk.css.map",
     "static/js/2.2b7773b1.chunk.js.LICENSE.txt": "/joshuakoch.github.io/static/js/2.2b7773b1.chunk.js.LICENSE.txt",
     "static/media/josh.jpg": "/joshuakoch.github.io/static/media/josh.063e725d.jpg",
     "static/media/josh2.jpg": "/joshuakoch.github.io/static/media/josh2.b174588e.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e0c1af6.js",
     "static/js/2.2b7773b1.chunk.js",
-    "static/css/main.cc2fa7fa.chunk.css",
+    "static/css/main.72cd9020.chunk.css",
     "static/js/main.b84e3b6d.chunk.js"
   ]
 }
