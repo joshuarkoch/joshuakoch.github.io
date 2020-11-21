@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e69484b1950fe5b25ca12f2afbb5a7e9",
+    "revision": "b79760cdaf6dff18f85ef756fe538622",
     "url": "/joshuakoch.github.io/index.html"
   },
   {
-    "revision": "605ea0b0de56e57781c5",
-    "url": "/joshuakoch.github.io/static/css/main.5b8687dc.chunk.css"
+    "revision": "7d971ffa8cacd8049aa1",
+    "url": "/joshuakoch.github.io/static/css/main.453182b2.chunk.css"
   },
   {
-    "revision": "6a6cc8730523840b9aab",
-    "url": "/joshuakoch.github.io/static/js/2.ae31d3f4.chunk.js"
+    "revision": "d55b4810e466028d92d4",
+    "url": "/joshuakoch.github.io/static/js/2.c78eefa6.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/joshuakoch.github.io/static/js/2.ae31d3f4.chunk.js.LICENSE.txt"
+    "url": "/joshuakoch.github.io/static/js/2.c78eefa6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "605ea0b0de56e57781c5",
-    "url": "/joshuakoch.github.io/static/js/main.a4e46676.chunk.js"
+    "revision": "7d971ffa8cacd8049aa1",
+    "url": "/joshuakoch.github.io/static/js/main.c00e1cbd.chunk.js"
   },
   {
     "revision": "ed38a84de806bbdaa0f6",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b174588e7c9073cb21a6b16fa0862054",
     "url": "/joshuakoch.github.io/static/media/josh2.b174588e.jpg"
+  },
+  {
+    "revision": "647c3d50cf7515793e7e45cdebc6290d",
+    "url": "/joshuakoch.github.io/static/media/josh_obx_nov2020.647c3d50.jpg"
   },
   {
     "revision": "405d186f07fb9242b2ade60bc22fdd58",
